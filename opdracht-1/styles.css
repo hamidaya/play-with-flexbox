@@ -1,0 +1,24 @@
+/* ======================================================
+   OEFENEN MET FLEXBOX
+========================================================= */
+.one {
+
+
+    display: grid;
+
+
+
+}
+
+.one p   {
+
+    display: flex;
+    justify-self: ;
+}
+
+
+
+
+
+
+/* Schrijf hier  jouw CSS! */
